@@ -402,6 +402,42 @@ box[i].addEventListener("click", function(f){
    if (f.target.parentElement.title == 'Achou foto e vídeos íntimos da sua namorada com seu ex'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:18.HDV31921.smil/playlist.m3u8");}
   
+		 if (f.target.parentElement.title == 'Eu e meu pai comemos minha MADRASTA juntos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuPaiQuisCOmerPutaComigo/smil:MeuPaiQuisCOmerPutaComigo.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Padrasto come cuzinho dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:fodame3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minhas Afilhadas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:19.HCV2370.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu Sobrinho Comeu Minha Esposa parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuSobrinho3/smil:MeuSobrinho3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Suruba com morena gostosa de uma favela no RJ'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:funkDasGostosas2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Essa não é calcinha da… – # EF 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EF1/smil:EntreFamilia1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minhas filhas somem na fazenda'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:20.HDV30659.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Matando a saudade da minha prima casada'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MatandoSaudadePrimaCasada/smil:MatandoSaudadePrimaCasada.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Moradora de rua roubou, e fez de tudo pra sair da cadeira'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:sexoAtrasGrade2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Negão arregaçando a patroazinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:17.HDV3312.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casos de família Segunda temporada, acalmou o ciúme da sobrinha, parte 4'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/CasosFamiliaSegTem4/smil:CasosFamiliaSegTem4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Aninha Galzerano liberando o cuzinho no pelô'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:entregoufudeu3.smil/playlist.m3u8");}
+	
       }
 )
 }
