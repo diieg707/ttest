@@ -437,6 +437,80 @@ box[i].addEventListener("click", function(f){
 	 
 	 if (f.target.parentElement.title == 'Aninha Galzerano liberando o cuzinho no pelô'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:entregoufudeu3.smil/playlist.m3u8");}
+	////////////////////////////////////// 23 ///////////////////////////////
+	
+		 if (f.target.parentElement.title == 'Olhando minha enteada de biquini toda cherosinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:22.HCVS0084.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Vou ajudar o meu sobrinho sair do vicio da pornografia'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/VicianoMasturbacao/smil:VicianoMasturbacao.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Cozinheira em BH trai marido durante horário de trabalho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:BarzinhoPlenoCovid.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == '2 Irmãos e uma prima'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:23.HCVS1202.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu romance secreto com minha enteada, parte 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuRomanceSecretoComMinhaEnteada2/smil:MeuRomanceSecretoComMinhaEnteada2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor do sexo oral com Elisa Sanches'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/EspecialOralAssinanteElisaSanches/smil:EspecialOralAssinanteElisaSanches.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor que aula do Crossfit'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:MeAlonga1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mãe usando a calcinha da filha pra seu Namorado ficar excitado – # EF 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EF2/smil:EntreFamilia2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor prima do mundo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:24.HDV30065.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fui assistir TV no quarto com meu tio, escondida da minha mãe'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/FuiAssistirTVQuartoTio/smil:FuiAssistirTVQuartoTio.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fez de tudo pra conquistar o emprego'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:OsPatroes1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Começou cedo com seu primo, não aguentou e gozou dentro'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:27.HDV30006.smil/playlist.m3u8");}
+	/////////////////////////////////////////// 22 /////////////////////////////////////////////////////////
+	
+		 if (f.target.parentElement.title == 'Olhei as fotos da minha sobrinha no celular dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/OlheiFotosSobrinha/smil:OlheiFotosSobrinha.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Vai me dar o que em troca de não falar das tuas notas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:UniversitariaSafadas2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tio precisamos da sua ajuda, pra salvar nosso casamento'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:25.HCVS2273.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casos de família Segunda temporada, Minha sobrinha quer meu namorado, parte final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/CasosFamiliaSegTem5/smil:CasosFamiliaSegTem5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mirella Mansur e Nina Lins curtindo solterisse'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:TraicaoCOnsetiva3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Conquistei minha sobrinha pelo telefone'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:29.HCVC0456.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Adoro ver minha afiliada estudando'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/EstudandoComEnteada/smil:EstudandoComEnteada.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Natal Parte 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Natal1/smil:Natal1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Natal Parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Natal2/smil:Natal2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu irmão chegou bebado em Casa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuPadrastoChegouBebadoEmCasa/smil:MeuPadrastoChegouBebadoEmCasa.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Reveillon Parte 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Revelhon1/smil:Revelhon1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Reveillon Parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Revelhon2/smil:Revelhon2.smil/playlist.m3u8");}
 	
       }
 )
