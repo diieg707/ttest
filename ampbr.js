@@ -399,9 +399,6 @@ box[i].addEventListener("click", function(f){
 	 if (f.target.parentElement.title == 'AMOR o pau dele é muito maior que seu'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:curtirCompartilhar2.smil/playlist.m3u8");}
 	 
-	 if (f.target.parentElement.title == 'Achou foto e vídeos íntimos da sua namorada com seu ex'){
-     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:18.HDV31921.smil/playlist.m3u8");}
-	 
 	 if (f.target.parentElement.title == 'Eu e meu pai comemos minha MADRASTA juntos'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuPaiQuisCOmerPutaComigo/smil:MeuPaiQuisCOmerPutaComigo.smil/playlist.m3u8");}
 	 
