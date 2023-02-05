@@ -585,7 +585,385 @@ box[i].addEventListener("click", function(f){
 	 
 	 if (f.target.parentElement.title == 'Levou sua filha no medico preferido'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:5.smil/playlist.m3u8");}
-	
-      }
+
+		 if (f.target.parentElement.title == 'Falaram que os Brasileiros são muito quentes na cama'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/23a/9/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Um mal entendido de uma mãe ciumenta, # EF 4'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:9.smil/playlist.m3u8");}
+
+	 //////////////////////19///////////////////////////
+	 
+	 if (f.target.parentElement.title == 'Primeira vez com minha meia irmã'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV4537/smil:HDV4537.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Começou fazer programa na Augusta'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:9.smil/playlist.m3u8");}
+
+	 if (f.target.parentElement.title == 'Vai ser ultima vez, pois a nossa mãe pode desconfiar'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:6.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Flagrei minha madrasta no banho, fui relaxar batendo uma pensando nela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:10.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Filha Sobe Na Cama E Pede Ao pai para Gozar Dentro Dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV4591/smil:HDV4591.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Retorno do Baile Funk no Morro do Vidigal depois COVID'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:10.smil/playlist.m3u8");}
+
+	 if (f.target.parentElement.title == 'Meu meio irmão me flagrou fumando e pediu algo em troca'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:7.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'De madrugada sozinha com meu irmão – # EF 5'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:11.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Pai Goza dentro da boca da Filha Enquanto A Mãe Está Na Sala Ao Lado'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVC0337/smil:HDVC0337.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Loira rabuda mostrou para o Padrasto com que ganhou a vida na Europa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:11.smil/playlist.m3u8");}	
+
+	 if (f.target.parentElement.title == 'Relação entre professor e filha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:8.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu romance secreto com minha enteada, parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuRomanceSecretoComMinhaEnteada3/smil:MeuRomanceSecretoComMinhaEnteada3.smil/playlist.m3u8");}	 
+
+	 ////////////////18////////////////////
+ 	 if (f.target.parentElement.title == 'A Brincadeira Preferida Do meu irmão'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV4603/smil:HDV4603.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Enquanto ele me comia a namorada dele me lambia'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:12.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Qual das suas filhas vampiras é pra comer?'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:9.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mãe com ciúme querendo estar lugar da filha. # CT 6'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:G.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Vovô cuida de você, já tua vó vem só mais tarde'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVC0414/smil:HDVC0414.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Empregada com ex jogador de futebol'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:13.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Loira linda chupando e dando sua buceta gostosa para os primos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:10.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Assistindo TV com meu padrasto de calcinha # EF 6'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:66.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Irmã entra no quarto do Irmão Pauzudo para Levar Gozada na Cara'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV4607/smil:HDV4607.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Ela so queria que marido apreendesse a comer ela direito'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:14.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Loirinha novinha entra na vida filme pornô pra ganhar dinheiro'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:11.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Beijo de boa noite nos filhos – # EF 7'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:15.smil/playlist.m3u8");}	 
+	 
+	 	 ////////////////17////////////////////
+ 	 if (f.target.parentElement.title == 'Trancou a porta do quarto, e comeu sua meia irmã pela primeira vez'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV5796/smil:HDV5796.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tomando pirocada no cuzinho do negão gostoso'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:15.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fazendo os desejos da minha esposa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/smil:FazendoDesejoMinhaEposa.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Morena novinha e linda chupando e dando gostoso'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:12.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fodo com Marido, mas é pau do enteado que eu quero dentro de mim # EF 8'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:21.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Flagrou sua irmã se masturbando no banheiro e gozou junto com ela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV5426/smil:HDV5426.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Morena cavala sentando com força na piroca do amigo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:16.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu Primo e pouco de nossa historia'){
+     window.open("https://videos.amopornobr.com/amopornobr/_definst_/Ano2022/Takes/HistoriaPri/smil:MeuPrimoPoucoNossaHistoria.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Novinha arrombada pelo caralho preto'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:13.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha Filha apreende tudo com sua mãe # EF 9'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Irmã ajuda seu irmão fisicamente a passar por problemas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV5757/smil:HDV5757.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Não posso engravidar de outro homem'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:17.smil/playlist.m3u8");}	 
+	 
+	 ////////////////16////////////////////
+ 	 if (f.target.parentElement.title == 'Madrasta, devemos para enquanto há tempo!!!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:MadrastaDevemosParaEnquantoHaTempo.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casal Bissexual, transando com primo novinho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:14.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Família incesta, todo mundo é todo mundo, # EF 10'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:6.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha vida secreta com minha irmã, minha grande paixão'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV5753/smil:HDV5753.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Ruiva Rabuda tem orgasmo na Rola grossa do coroa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:18.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Sexo com amigo do corno'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:15.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Adorei assistir minha namorada sentando em outra rola'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/Assistindo/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Irmã curiosa, flagrou seu irmão na punheta pela manhã e foi ajuda-lo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:23.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Aluna foi comida, depois professor sair da sala de aula'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:19.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Putinhas lésbicas se chupando'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:16.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Na hora de gozar, vale ate pensar em outro(a). # CT 7'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:17.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Cunhada invejosa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/InvejosaCunhada/smil:1.smil/playlist.m3u8");}	 	 
+	 
+	 ////////////////15////////////////////
+ 	 if (f.target.parentElement.title == 'Inocência ou provocação?. # CT 8'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:25.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Filha querida Mostra ao pai o que Aprendeu na aula'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVAMD035/smil:HDVAMD035.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Troca de casal'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:21.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha esposa também tem suas necessidades, com outros machos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/NecWife/smil:NecesEspo.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Não tem como se encantar com essas loiras em sessão de fotos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:18.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Quem fica procurando chifre, mais cedo mais tarde acha. # CT 9'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Irmão e Irmã Submetem-se ao Amor Proibido'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV4556/smil:HDV4556.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Elisa Sanches com 18 aninhos, um Vulgão de tesão'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:22.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Levou a mulher casada pra foder na praia'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:17.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tesão em saber, que ele sabe que é corno'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/TSaber/smil:Ts.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Se for pra trair por vingança, que seja ate com quem é de casa. # CT 10'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:9.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Sua mãe é melhor amiga'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVFLY0468/smil:HDVFLY0468.smil/playlist.m3u8");}	 	 
+	 
+	 ////////////////14////////////////////
+ 	 if (f.target.parentElement.title == 'Professor cheio de segundas intenções com sua aluna'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:23.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Era pra estar me ensinando a história do Brasil'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:19.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'De Santinha a Puta em 7 dias'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EliSanti1/smil:55.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha mãe não pode saber destes meus desejos com meu Padrasto. # CT 11'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:13.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Pai deixou meu tio, me comer na frente dele'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVC1272/smil:HDVC1272.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Gordinha safada boquete nervoso'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:24.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu Marido sabe que tenho um outro comedor fixo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/ComedorFixo/smil:2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Eu e meu marido, fazendo suruba com sobrinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:20.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Meu Marido sempre pedi, para eu enviar vídeo fodendo com outros machos enquanto ele está de plantão no batalhão!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/1/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha mãe sabe de tudo, minha relação com meu padrasto'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/JovemSeiosPequenosNegaoArrombando/smil:JovemSeiosPequenosNegaoArrombando.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha tia me deseja como minha mãe'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDVFLY0334/smil:HDVFLY0334.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == '69 Suculento com Britney Bitch'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:25.smil/playlist.m3u8");}	 	 
+	 
+	 ////////////////13////////////////////
+ 	 if (f.target.parentElement.title == 'Enteada Ninfo Usa Padrasto Como Remédio'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:EnteadaNinfoUsaPadrastoComoRemedio.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Padrasto implora pra comer ultima vez cu da enteada'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:21.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Descontando os problemas com sua mãe, no padrasto'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/4/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal, parte 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:16.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meus Irmãos Arrombaram meu cuzinho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/smil:ArrombaramMeuCuzinho.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Generosa com os presos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:26.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Wanessa Boyer chama técnico TV, e percebe que é alem de seu FÂ é bem DOTADO'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/TecnicoTVWanessa/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Primeiro anal da minha prima'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:22.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal, parte 3'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:19.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha irmã entrou na vara e gozou de verdade da primeira vez'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:FazendoMinhaIrmaGozarPrimeiraVez.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tomando de quatro pelo meu padrasto'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:27.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Apreendi muito com mãe do meu melhor amigo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:12.smil/playlist.m3u8");}
+
+	 ////////////////12////////////////////
+ 	 if (f.target.parentElement.title == 'Pai Socou Minha Buceta pequena e Molhadinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HCPC0354/smil:HCPC0354.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Não tenha medo, que porta já esta trancada'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/2/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal, parte 4'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:23.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Simples pedido de desculpas a sua madrasta'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV31927/smil:HDV31927.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Rei Dubai, veio passar piroca nas casadas Brasileiras'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Enteada cansada, entregando-se ao Padrasto, quando sua mãe foi dormir'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:Pad.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tocando na minha sobrinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:24.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal, parte 5'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:2.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Recém se separou, ja foi pro TINDER'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:47.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Morena gostosa fodendo com novinho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Trailler Oficial: – Toda noite é esse drama com minha meia-irmã! Mas ela adora, e sempre pede mais!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:AiVaiL.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'A filha da minha esposa, não é mais virgem de cuzinho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:25.smil/playlist.m3u8");}	 
+
+	 ////////////////11////////////////////
+ 	 if (f.target.parentElement.title == 'Um pouco antes nossos pais chegarem'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/5/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'De Santinha a Puta em 7 dias, parte 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EliSanti2/smil:55.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fiz questão de mandar foto para o corno, dele me comendo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:48.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Corretora de imóveis gostosa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Trailler Oficial: Amor de Pica Sempre Fica! E Meu Marido Sabe Disso!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:TMarcoVida.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu pai vai trabalhar e minha madrasta adora dar nos 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:26.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal, parte 6'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:7.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu tio sempre me comeu no trabalho dele'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HCVC0187/smil:HCVC0187.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Gostosas no funk'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Trailer Oficial: O Leite Tá Caro, Por Isso Amamento a 11 Meses nos Peitinhos Da Minha Meia-Irmã!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Trailer2022/smil:Pe11.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Espera todo mundo sair de casa, pra me agradar'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:27.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha mãe sabe o que meu padrasto vem fazer no meu quarto, antes de ir pra cama com ela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuMaridoBrigaComigoMeEncontroMeuAmante/smil:MeuMaridoBrigaComigoMeEncontroMeuAmante.smil/playlist.m3u8");}	 
+
+	 ////////////////10////////////////////
+ 	 if (f.target.parentElement.title == 'Irmã cansada do namorado, fode com seu irmão'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV30094/smil:HDV30094.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Depois baile funk com meu tio, sempre esperávamos todos irem dormir'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minha irmã dentro de casa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Takes/3/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Só trai o marido, quando não consegui dinheiro com ele'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:28.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Um Dia De Folga Do Meio-Irmão!'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/AATransex/1/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'De Santinha a Puta em 7 dias, parte 3'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EliSanti3/smil:55.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu tio e meu pai me fodendo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV30030/smil:HDV30030.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tenho tesão de ver meu marido fodendo outra na aula de ginastica'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais2.2022/smil:6.smil/playlist.m3u8");}	 
+	 
+	 if (f.target.parentElement.title == 'Ajudando meu irmão a superar sua separacao'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo2.2022/smil:32.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fazendo com ex, o que meu marido não faz mais'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:29.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Segredos familiares, uma novela da vida real'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:20.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu pai, suas regras de quando a mãe não esta em casa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Proibidao/HDV30170/smil:HDV30170.smil/playlist.m3u8");}	 
+
+
+}
 )
 }
