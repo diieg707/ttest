@@ -399,6 +399,815 @@ box[i].addEventListener("click", function(f){
 	 if (f.target.parentElement.title == 'AMOR o pau dele é muito maior que seu'){
      window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:curtirCompartilhar2.smil/playlist.m3u8");}
 	 
+	 if (f.target.parentElement.title == 'Achou foto e vídeos íntimos da sua namorada com seu ex'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:18.HDV31921.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Eu e meu pai comemos minha MADRASTA juntos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuPaiQuisCOmerPutaComigo/smil:MeuPaiQuisCOmerPutaComigo.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Padrasto come cuzinho dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:fodame3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minhas Afilhadas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:19.HCV2370.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu Sobrinho Comeu Minha Esposa parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuSobrinho3/smil:MeuSobrinho3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Suruba com morena gostosa de uma favela no RJ'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:funkDasGostosas2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Essa não é calcinha da… – # EF 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EF1/smil:EntreFamilia1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Minhas filhas somem na fazenda'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:20.HDV30659.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Matando a saudade da minha prima casada'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MatandoSaudadePrimaCasada/smil:MatandoSaudadePrimaCasada.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Moradora de rua roubou, e fez de tudo pra sair da cadeira'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:sexoAtrasGrade2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Negão arregaçando a patroazinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:17.HDV3312.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casos de família Segunda temporada, acalmou o ciúme da sobrinha, parte 4'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/CasosFamiliaSegTem4/smil:CasosFamiliaSegTem4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Aninha Galzerano liberando o cuzinho no pelô'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:entregoufudeu3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Olhando minha enteada de biquini toda cherosinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:22.HCVS0084.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Vou ajudar o meu sobrinho sair do vicio da pornografia'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/VicianoMasturbacao/smil:VicianoMasturbacao.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Cozinheira em BH trai marido durante horário de trabalho'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:BarzinhoPlenoCovid.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == '2 Irmãos e uma prima'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:23.HCVS1202.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu romance secreto com minha enteada, parte 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuRomanceSecretoComMinhaEnteada2/smil:MeuRomanceSecretoComMinhaEnteada2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor do sexo oral com Elisa Sanches'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/EspecialOralAssinanteElisaSanches/smil:EspecialOralAssinanteElisaSanches.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor que aula do Crossfit'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:MeAlonga1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mãe usando a calcinha da filha pra seu Namorado ficar excitado – # EF 2'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/EF2/smil:EntreFamilia2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor prima do mundo'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:24.HDV30065.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fui assistir TV no quarto com meu tio, escondida da minha mãe'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/FuiAssistirTVQuartoTio/smil:FuiAssistirTVQuartoTio.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fez de tudo pra conquistar o emprego'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:OsPatroes1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Começou cedo com seu primo, não aguentou e gozou dentro'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:27.HDV30006.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Olhei as fotos da minha sobrinha no celular dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/OlheiFotosSobrinha/smil:OlheiFotosSobrinha.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Vai me dar o que em troca de não falar das tuas notas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:UniversitariaSafadas2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tio precisamos da sua ajuda, pra salvar nosso casamento'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:25.HCVS2273.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casos de família Segunda temporada, Minha sobrinha quer meu namorado, parte final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/CasosFamiliaSegTem5/smil:CasosFamiliaSegTem5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mirella Mansur e Nina Lins curtindo solterisse'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:TraicaoCOnsetiva3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Conquistei minha sobrinha pelo telefone'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:29.HCVC0456.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Adoro ver minha afiliada estudando'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/EstudandoComEnteada/smil:EstudandoComEnteada.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Natal Parte 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Natal1/smil:Natal1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Natal Parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Natal2/smil:Natal2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu irmão chegou bebado em Casa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/MeuPadrastoChegouBebadoEmCasa/smil:MeuPadrastoChegouBebadoEmCasa.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Reveillon Parte 1'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Revelhon1/smil:Revelhon1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Fim de ano familiar – Reveillon Parte Final'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/Revelhon2/smil:Revelhon2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Mensagem de celular que mudou nossas relação conjugal'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Deixou Cliente Gozar Cuzinho Pra Vender o Apartamento'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Acabou assim a maratona de serie com minha sobrinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/GostosasVideos/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Tesão em ver minha enteada no banho – # EF 3'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/EntreFamilia3/smil:EntreFamilia3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Casadinha no Bar só com amigas'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu avô chamou fazer filme pornô'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:28.HCV6006.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Melhor vendedora de SexShop do bairro'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:M.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Terapia sexual'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Sobrinha caçula fogosa'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Internacional/smil:30.HCVC0187.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Atendimento VIP Paola Venturine'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:S.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Elisa Sanches atrás das grandes quando tinha lá pelos seus 18 aninhos'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Meu padrinho me come de quatro toda vez que preciso dele pra sair'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Ela me pediu que fodesse sua filha na frente dela'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/ElaPediucomerSuaFilhaFrenteDela/smil:ElaPediucomerSuaFilhaFrenteDela.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Falou iria estudar na casa da colega de aula'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Foi consolada pelo padrasto'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:2.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Chega a noite, sempre vou dar beijo de boa noite neles'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/DesejoDaTiaPelosSobrinhos/smil:DesejoDaTiaPelosSobrinhos.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Conseguiu emprego fácil'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:6.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Ela sabe que vou olhar ela estudando e fica me provocando'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:3.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Ela tinha idade de ser minha filha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:F.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Lavou de porra o cuzinho da novinha casada'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:7.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Rola negra no ramo da lorinha'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:4.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Inocência ou Interesse. # CT 5'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/LoteNovo2/CasosTraicao5/smil:CasosTraicao5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Escola de putaria'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Nacionais1.2022/smil:8.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Levou sua filha no medico preferido'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Internacionais1.2022/smil:5.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Falaram que os Brasileiros são muito quentes na cama'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/23a/9/smil:1.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == 'Um mal entendido de uma mãe ciumenta, # EF 4'){
+     window.open("https://videos.amopornobr.com//amopornobr/_definst_/Ano2022/Exclusivo1.2022/smil:9.smil/playlist.m3u8");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
+	 if (f.target.parentElement.title == ''){
+     window.open("");}
+	 
 	 if (f.target.parentElement.title == ''){
      window.open("");}
 	 
